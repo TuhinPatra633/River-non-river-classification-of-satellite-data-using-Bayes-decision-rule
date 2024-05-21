@@ -1,9 +1,7 @@
 """
 -----------------------------------------------------------------------------
 Statelite image(band4.gif) point annotation
------------------------------------------------------------------------------
-AUTHOR: Soumitra Samanta (soumitra.samanta@gm.rkmvu.ac.in)
------------------------------------------------------------------------------
+
 Package required:
 Numpy: https://numpy.org/
 scikit-image: https://scikit-image.org/
